@@ -5,8 +5,8 @@ import './index.css';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-  <BrowserRouter basename="/Wallmartboss/Last_Project_ReactNode">
+  <BrowserRouter basename="/Last_Project_ReactNode">
     <App />
-   <BrowserRouter />
+  </BrowserRouter>
   </React.StrictMode>
 );
