@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Wallmartboss/Last_Project_ReactNode/static/css/main.7acaea2f.css",
+    "main.js": "/Wallmartboss/Last_Project_ReactNode/static/js/main.07d3183d.js",
+    "index.html": "/Wallmartboss/Last_Project_ReactNode/index.html",
+    "main.7acaea2f.css.map": "/Wallmartboss/Last_Project_ReactNode/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/Wallmartboss/Last_Project_ReactNode/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
